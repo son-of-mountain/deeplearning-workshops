@@ -29,7 +29,7 @@ This project builds a deep learning model using PyTorch to predict stock closing
 
 ## 🛠 How to Run
 1. Clone this repository:
-``git clone https://github.com/son-of-mountain/stock-price-prediction.git``
+``git clone https://github.com/son-of-mountain/deeplearning-workshops/blob/main/atelier1/``
 2. Open **Google Colab** and upload the dataset.
 3. Run the notebook.
 
