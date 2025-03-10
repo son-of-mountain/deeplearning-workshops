@@ -1,26 +1,45 @@
 # Stock Price Prediction using PyTorch
 
-## 📌 Project Overview
+## 📌 Regression Project Overview
 This project builds a deep learning model using PyTorch to predict stock closing prices based on historical data.
 
-## 📊 Dataset
+### 📊 Dataset Exploration
 - Dataset: **New York Stock Exchange Prices**
+![image](https://github.com/user-attachments/assets/d05c0005-6020-49c6-91d9-92b3d22ab613)
+
 - Features used: `open`, `high`, `low`, `volume`
 - Target variable: `close`
+  
+![image](https://github.com/user-attachments/assets/1233d593-d3fa-4c34-b528-eb163d5db19f)
 
-## 🚀 Model Summary
+### Obtained result vs Actual model
+![image](https://github.com/user-attachments/assets/2162c6f0-ec85-49d7-b6e6-9d6dde777bb0)
+
+
+### 🚀 Model Summary
 - **Architecture:** 2 hidden layers (64 & 32 neurons)
 - **Activation function:** ReLU
 - **Loss function:** MSE Loss
 - **Optimizer:** Adam (learning rate: 0.001)
 - **Regularization:** Dropout (0.2), L2 weight decay
 
-## 🔍 Results
+### 🔍 Results
 | Metric | Value |
 |--------|-------|
-| Mean Absolute Error (MAE) | 58.6374 |
-| Mean Squared Error (MSE) | 3443.5181 |
-| Root Mean Squared Error (RMSE) | 58.6815 |
+| Mean Absolute Error (MAE) | 0.5513 |
+| Mean Squared Error (MSE) | 0.5234 |
+| Root Mean Squared Error (RMSE) | 0.7234 |
+
+## 📌 Classification Part Overview
+
+
+
+
+
+
+
+
+
 
 ## 🔧 Improvements & Regularization
 - **Tuned learning rate** (reduced from 0.01 → 0.001)
