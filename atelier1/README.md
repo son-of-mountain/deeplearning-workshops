@@ -20,9 +20,9 @@ This project builds a deep learning model using PyTorch to predict stock closing
 ## 🔍 Results
 | Metric | Value |
 |--------|-------|
-| Mean Absolute Error (MAE) | XX.XX |
-| Mean Squared Error (MSE) | XX.XX |
-| Root Mean Squared Error (RMSE) | XX.XX |
+| Mean Absolute Error (MAE) | 58.6374 |
+| Mean Squared Error (MSE) | 3443.5181 |
+| Root Mean Squared Error (RMSE) | 58.6815 |
 
 ## 🔧 Improvements & Regularization
 - **Tuned learning rate** (reduced from 0.01 → 0.001)
