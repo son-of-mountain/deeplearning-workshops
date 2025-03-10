@@ -1,6 +1,4 @@
 # Stock Price Prediction using PyTorch
-readme_content = """
-# Stock Price Prediction using PyTorch
 
 ## 📌 Project Overview
 This project builds a deep learning model using PyTorch to predict stock closing prices based on historical data.
