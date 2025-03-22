@@ -31,9 +31,11 @@ This project builds a deep learning model using PyTorch to predict stock closing
 | Root Mean Squared Error (RMSE) | 0.7234 |
 
 ## 📌 Classification Part Overview
+Class Distribution of Failure Types (Excluding No Failure)
+![image](https://github.com/user-attachments/assets/75e4e415-a16c-469a-a7fb-d9448a6d149f)
 
-
-
+Compute Classification Metrics
+![image](https://github.com/user-attachments/assets/f20bae75-7636-4741-b34e-94ef424cdcc5)
 
 
 
