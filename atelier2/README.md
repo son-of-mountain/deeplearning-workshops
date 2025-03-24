@@ -37,6 +37,8 @@ We will compare their performances using metrics like **accuracy, F1-score, loss
 - MNIST is converted into an **object detection dataset** by adding **bounding boxes**.
 - Labels are modified to fit the Faster R-CNN structure.
 
+<img alt="img_1.png" height="150" src="img_1.png" width="300"/>
+
 ### Model Architecture
 - **Pretrained Faster R-CNN** (`fasterrcnn_resnet50_fpn`)
 - Modified **classification head** to detect **10 digits + background**
