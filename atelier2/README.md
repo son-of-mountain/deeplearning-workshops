@@ -3,8 +3,11 @@
 ## Objective
 The goal of this lab is to get familiar with **PyTorch** by implementing various neural network architectures for **computer vision**, including:
 - **CNN** for MNIST classification
+  <img alt="img_3.png" src="img_3.png"/>
 - **Faster R-CNN** for adapted object detection/classification on MNIST
+  <img alt="img_2.png" src="img_2.png"/>
 - **Vision Transformer (ViT)** for MNIST classification
+![img_4.png](img_4.png)
 
 We will compare their performances using metrics like **accuracy, F1-score, loss, and training time**.
 
