@@ -8,6 +8,8 @@ Welcome to the **Deep Learning Workshops** repository! 🚀 This repo contains h
 
 - 📁 **atelier2**   
 
+- 📁 **atelier3**   
+
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository  
